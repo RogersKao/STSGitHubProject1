@@ -10,6 +10,7 @@ public class StsGitHubProject1Application {
 		SpringApplication.run(StsGitHubProject1Application.class, args);
 		
 // 	Kao5ypdate in FirstBranch		
+//	 	Kao6ypdate in FirstBranch		
 		
 	}
 
