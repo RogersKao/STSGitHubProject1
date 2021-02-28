@@ -10,6 +10,8 @@ public class StsGitHubProject1Application {
 		SpringApplication.run(StsGitHubProject1Application.class, args);
 //		here is a test
 //		test 2 check-in		
+//		kao2test check-in		
+		
 		
 	}
 
